@@ -1,5 +1,3 @@
-import React from 'react';
-
 const HeaderItem = ({ Icon, title }) => {
   return (
     <li className="group w-12 sm:w-20 hover:text-white">
