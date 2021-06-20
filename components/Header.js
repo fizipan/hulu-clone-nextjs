@@ -13,7 +13,7 @@ const Header = () => {
         <HeaderItem title="SEACRH" Icon={SearchIcon} />
         <HeaderItem title="ACCOUNT" Icon={UserIcon} />
       </ul>
-      <Image src="https://links.papareact.com/ua6" className="object-contain " width={200} height={100} />
+      <Image src="https://links.papareact.com/ua6" className="object-contain " alt="" width={200} height={100} />
     </header>
   );
 };
